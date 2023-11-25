@@ -124,4 +124,4 @@ python main.py
 
 4) In the rpc.json file at the path zksync/data/rpc.json we can change the rpc to ours
 
-Info on updates and just a life blog –– https://t.me/sybilwave
+Info on updates and just a life blog –– https://t.me/CyberRyda
