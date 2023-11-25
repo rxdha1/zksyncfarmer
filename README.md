@@ -14,9 +14,9 @@
 <h2>🚀 Installation</h2>
 
 ```
-git clone https://github.com/czbag/zksync.git
+git clone https://github.com/rxdha1/zksyncfarmer
 
-cd zksync
+cd zksyncfarmer
 
 pip install -r requirements.txt
 
