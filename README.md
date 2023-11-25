@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://i.imgur.com/tqA3f3O.png"  />
   <h1>ZkSync Soft</h1>
-  <p>This software simplifies wallet management on the ZkSync network, providing access to a variety of features and a high level of randomization for enhanced security.</p>
+  <p>MODIFICATION FROM FORK:  USING .ENV FOR SENSITIVE INFORMATION!!!! This software simplifies wallet management on the ZkSync network using .env for maximum private key security.  This script is providing access to a variety of features and a high level of randomization for enhanced security.</p>
 </div>
 
 ---
