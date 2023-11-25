@@ -83,8 +83,8 @@ def get_module():
         pointer="✅ "
     ).ask()
     if result == "exit":
-        print("\n❤️ Subscribe to me – https://t.me/sybilwave\n")
-        print("🤑 Donate me: 0x00000b0ddce0bfda4531542ad1f2f5fad7b9cde9")
+        print("\n❤️ Subscribe to me – https://t.me/CyberRyda\n")
+        print("🤑 Donate me: 0x24744DF6A4cc3a80E094B60109Af9d536b9968Fe")
         sys.exit()
     return result
 
@@ -146,7 +146,7 @@ def main(module):
 
 
 if __name__ == '__main__':
-    print("❤️ Subscribe to me – https://t.me/sybilwave\n")
+    print("❤️ Subscribe to me – https://t.me/CyberRyda\n")
 
     logger.add("logging.log")
 
@@ -156,5 +156,5 @@ if __name__ == '__main__':
     else:
         main(module)
 
-    print("\n❤️ Subscribe to me – https://t.me/sybilwave\n")
-    print("🤑 Donate me: 0x00000b0ddce0bfda4531542ad1f2f5fad7b9cde9")
+    print("\n❤️ Subscribe to me – https://t.me/CyberRyda\n")
+    print("🤑 Donate me: 0x24744DF6A4cc3a80E094B60109Af9d536b9968Fe")
